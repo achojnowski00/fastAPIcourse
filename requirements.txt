@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+autopep8
+sqlalchemy
